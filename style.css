@@ -1,0 +1,47 @@
+body{
+background-image: url("./temp.jpg");
+background-size:cover ;
+}
+.heading
+{
+    color:white;
+}
+.sub
+{
+color:white;
+}
+button{
+    color:Black;
+    background-color: white;
+    padding:10px 15px;
+}
+h4{
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    font-weight: 800;
+    color:white;
+    font-size:30px;
+    margin:0px 150px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* margin-left:150px;
+    margin-right: 150px;
+    margin-bottom:8px; */
+}
+a
+{
+    color:white;
+    font-weight:400;
+    font-size:15px;
+    text-decoration:none;
+}
+.vg{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-end;
+  margin-top:-25px;
+}
+
